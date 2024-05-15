@@ -1,0 +1,79 @@
+[INFO ] 2024-05-14 10:14:30.192 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:14:33.010 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:14:35.114 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:18:19.938 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:18:21.651 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:18:23.972 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:23:21.854 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:23:25.370 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:23:27.393 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:25:15.568 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:25:18.136 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:25:20.352 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:29:42.372 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:29:44.071 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:29:46.493 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:31:34.967 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:31:38.357 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:31:40.218 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:35:20.193 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:35:23.480 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:35:25.253 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:38:47.520 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:38:49.871 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:38:51.749 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:41:02.508 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:41:04.397 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:41:07.090 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:48:44.011 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:48:46.376 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:48:48.376 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:53:36.956 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 10:53:40.420 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 10:53:43.490 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:43:44.169 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 12:43:46.369 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:44:06.710 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:44:23.005 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 12:51:15.858 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 12:51:17.658 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:51:38.024 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:51:56.794 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 12:51:57.779 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 12:54:05.199 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 12:54:07.634 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:54:27.991 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 12:54:42.831 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 12:54:43.927 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 12:57:53.899 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:01:56.667 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:01:58.597 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:02:18.887 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:02:33.650 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 13:02:34.651 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 13:04:38.591 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:04:41.004 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:05:01.353 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:05:20.019 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 13:05:21.167 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 13:11:13.720 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:11:15.945 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:11:36.276 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:11:55.456 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 13:15:04.843 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:15:06.994 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:15:27.316 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:15:41.912 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 13:15:42.945 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 13:19:10.249 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:19:12.965 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:19:33.401 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:19:52.462 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 13:21:11.231 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-14 13:21:14.551 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:21:34.904 [main] TestNG - Product details Test
+[INFO ] 2024-05-14 13:21:54.452 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-14 13:21:55.664 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-14 15:21:25.516 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-14 15:26:57.117 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-14 15:28:19.551 [main] TestNG - Search with special characters handled correctly.

@@ -1,0 +1,28 @@
+[INFO ] 2024-05-15 11:36:49.476 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 11:59:46.929 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 11:59:48.613 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:08.016 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 12:00:10.600 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:30.925 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:49.106 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 12:00:50.241 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 12:00:53.634 [main] TestNG - Pagination to next page functionality is validated.
+[INFO ] 2024-05-15 12:01:10.056 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 12:01:13.567 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 13:14:56.207 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 13:15:00.028 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 13:15:20.780 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 13:15:22.627 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 13:15:24.890 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 13:15:26.999 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 13:15:28.420 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 13:15:36.613 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 13:15:43.872 [main] TestNG - All the sorting functions
+[INFO ] 2024-05-15 13:15:48.002 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 13:15:54.906 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 13:16:04.390 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 13:16:08.423 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 13:16:12.290 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 13:16:16.852 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 13:16:19.634 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 13:16:23.821 [main] TestNG - Verify Terms and Conditions page is up to date.

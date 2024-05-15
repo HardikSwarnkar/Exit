@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Built-By: hardikswarnkar
+Build-Jdk: 21.0.2
+Class-Path: lib/selenium-java-4.20.0.jar lib/selenium-api-4.20.0.jar lib
+ /selenium-chrome-driver-4.20.0.jar lib/auto-service-annotations-1.1.1.j
+ ar lib/selenium-chromium-driver-4.20.0.jar lib/selenium-json-4.20.0.jar
+  lib/selenium-manager-4.20.0.jar lib/selenium-devtools-v122-4.20.0.jar 
+ lib/selenium-devtools-v123-4.20.0.jar lib/selenium-devtools-v124-4.20.0
+ .jar lib/selenium-devtools-v85-4.20.0.jar lib/selenium-edge-driver-4.20
+ .0.jar lib/selenium-firefox-driver-4.20.0.jar lib/selenium-http-4.20.0.
+ jar lib/failsafe-3.3.2.jar lib/selenium-ie-driver-4.20.0.jar lib/seleni
+ um-remote-driver-4.20.0.jar lib/guava-33.1.0-jre.jar lib/failureaccess-
+ 1.0.2.jar lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guav
+ a.jar lib/jsr305-3.0.2.jar lib/checker-qual-3.42.0.jar lib/error_prone_
+ annotations-2.26.1.jar lib/j2objc-annotations-3.0.0.jar lib/opentelemet
+ ry-semconv-1.25.0-alpha.jar lib/opentelemetry-api-1.37.0.jar lib/opente
+ lemetry-context-1.37.0.jar lib/opentelemetry-exporter-logging-1.37.0.ja
+ r lib/opentelemetry-sdk-common-1.37.0.jar lib/opentelemetry-sdk-extensi
+ on-autoconfigure-spi-1.37.0.jar lib/opentelemetry-sdk-extension-autocon
+ figure-1.37.0.jar lib/opentelemetry-api-incubator-1.37.0-alpha.jar lib/
+ opentelemetry-sdk-trace-1.37.0.jar lib/opentelemetry-sdk-1.37.0.jar lib
+ /opentelemetry-sdk-metrics-1.37.0.jar lib/opentelemetry-sdk-logs-1.37.0
+ .jar lib/byte-buddy-1.14.14.jar lib/selenium-os-4.20.0.jar lib/commons-
+ exec-1.4.0.jar lib/selenium-safari-driver-4.20.0.jar lib/selenium-suppo
+ rt-4.20.0.jar lib/slf4j-api-1.7.36.jar lib/extentreports-5.1.1.jar lib/
+ rxjava-3.1.6.jar lib/reactive-streams-1.0.4.jar lib/freemarker-2.3.32.j
+ ar lib/lombok-1.18.26.jar lib/gson-2.10.1.jar lib/commons-io-2.15.1.jar
+  lib/log4j-core-2.23.1.jar lib/log4j-api-2.23.1.jar lib/webdrivermanage
+ r-5.8.0.jar lib/docker-java-3.3.6.jar lib/docker-java-core-3.3.6.jar li
+ b/docker-java-api-3.3.6.jar lib/jackson-annotations-2.10.3.jar lib/jack
+ son-databind-2.10.3.jar lib/jackson-core-2.10.3.jar lib/bcpkix-jdk18on-
+ 1.76.jar lib/bcprov-jdk18on-1.76.jar lib/bcutil-jdk18on-1.76.jar lib/jc
+ l-over-slf4j-1.7.30.jar lib/docker-java-transport-httpclient5-3.3.6.jar
+  lib/docker-java-transport-3.3.6.jar lib/jna-5.13.0.jar lib/dec-0.1.2.j
+ ar lib/commons-lang3-3.14.0.jar lib/commons-compress-1.26.1.jar lib/com
+ mons-codec-1.16.1.jar lib/httpclient5-5.2.1.jar lib/httpcore5-5.2.jar l
+ ib/httpcore5-h2-5.2.jar
+Main-Class: theMainClass
+Created-By: Maven Integration for Eclipse
+
