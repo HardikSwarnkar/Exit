@@ -18,7 +18,7 @@ pipeline {
             post {
                 success {
                     publishHTML([ // Archive HTML report
-                        allowMissing: false,
+                        allowMissing: true,
                         alwaysLinkToLastBuild: false,
                         keepAll: false,
                         reportDir: 'target/surefire-reports/',
